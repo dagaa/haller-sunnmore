@@ -2,7 +2,7 @@ name: Fetch JSON and save to repo
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # This will trigger the workflow every 2 minutes
+    - cron: '*/2 * * * *' # This will trigger the workflow every 2 minutes
 
 jobs:
   fetch_json:
