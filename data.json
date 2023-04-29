@@ -1,1 +1,2101 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[5.849190796563197,62.34370425557691]},"properties":{"headline":"Ulstein Arena","ingress":"45 x 25 meter","body":"Ulstein Arena","image":"https://vcdn.polarismedia.no/1bf5a960-cc5c-4746-bcbc-1b771a3aeb5d?fit=crop&q=80&w=980"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.874429084285412,62.28164885931076]},"properties":{"headline":"Haddal skule","ingress":"20 x 10 meter","body":"Haddal skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.826599519239602,62.35678944325621]},"properties":{"headline":"Ulstein skule","ingress":"20 x 10 meter","body":"Ulstein skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.843806922348546,62.3163105129793]},"properties":{"headline":"Hasund skule","ingress":"20 x 20 meter","body":"Hasund skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.8885074,62.2528615]},"properties":{"headline":"Eiksund skule","ingress":"20 x 10 meter","body":"Eiksund skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.7988671,62.32564]},"properties":{"headline":"Dimna skule","ingress":"20 x 10 meter","body":"Dimna skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.850603328808694,62.40458978238224]},"properties":{"headline":"Flø skule","ingress":"20 x 10 meter","body":"Flø skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.880971585020355,62.340493149991524]},"properties":{"headline":"Ulstein fleirbruks- og friidrettshall","ingress":"100 x 55 meter","body":"Ulstein fleirbruks- og friidrettshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.849190796563197,62.34370425557691]},"properties":{"headline":"Klatrehall - UlsteinArena","ingress":"13 meter høy","body":"Klatrehall - UlsteinArena","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.879655465837553,62.34084950624702]},"properties":{"headline":"Hødd turnhall","ingress":"24 x 48 meter","body":"Hødd turnhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.878983149997282,62.34081078021387]},"properties":{"headline":"Ulsmo-hallen, fotballhall","ingress":"60 x 40 meter","body":"Ulsmo-hallen, fotballhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.830696297784971,62.35184304871661]},"properties":{"headline":"Ulstein padelhall","ingress":"","body":"Ulstein padelhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0800413,62.1469064]},"properties":{"headline":"Volda Campus Arena","ingress":"2 x handballflater  + 2 mindre salar","body":"Volda Campus Arena","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.519222354310353,61.97702954722384]},"properties":{"headline":"Honndalshallen","ingress":"Håndballbane","body":"Honndalshallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0222164,62.1693688]},"properties":{"headline":"Mork skole","ingress":"Ordinær \"skole-gymsal\"","body":"Mork skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1104907,62.1495425]},"properties":{"headline":"Bratteberg skole","ingress":"Ordinær \"skole-gymsal\"","body":"Bratteberg skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0294477,62.1178848]},"properties":{"headline":"Folkestad skole","ingress":"Ordinær \"skole-gymsal\"","body":"Folkestad skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.9363073,62.1130418]},"properties":{"headline":"Dalsfjord skole","ingress":"Ordinær \"skole-gymsal\"","body":"Dalsfjord skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2612576,62.0649422]},"properties":{"headline":"Austefjord skole","ingress":"Ordinær \"skole-gymsal\"","body":"Austefjord skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.11473416781015,62.14943105600121]},"properties":{"headline":"Tennishall Volda","ingress":"Tennisbane","body":"Tennishall Volda","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.6875019,62.3342872]},"properties":{"headline":"Einehallen","ingress":"45 x 25 meter","body":"Einehallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.642387723560484,62.333918456412896]},"properties":{"headline":"Herøyhallen","ingress":"45 x 25 meter","body":"Herøyhallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.7266022,62.3029761]},"properties":{"headline":"Stokksund skole","ingress":"10 x 20 meter","body":"Stokksund skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.63544716781772,62.294763702291384]},"properties":{"headline":"Moltu skule","ingress":"14 x 7 meter","body":"Moltu skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.5827883,62.3409675]},"properties":{"headline":"Nerlandsøy skole","ingress":"10 x 6 meter","body":"Nerlandsøy skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.7868951,62.2365092]},"properties":{"headline":"Leikanger skole","ingress":"20 x 10 meter","body":"Leikanger skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.8052766,62.2783782]},"properties":{"headline":"Møre barne- og ungdomsskole (Herøy)","ingress":"10 x 20 meter","body":"Møre barne- og ungdomsskole (Herøy)","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.6432644,62.3331155]},"properties":{"headline":"Fiskarhallen (fotballhall)","ingress":"63 x 36 meter","body":"Fiskarhallen (fotballhall)","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.0875764,62.6166489]},"properties":{"headline":"Vestneshallen","ingress":"3384 kvadratmeter","body":"Vestneshallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.9336326,62.6057866]},"properties":{"headline":"Tomrefjord Idrettsbygg","ingress":"2820 kvadratmeter","body":"Tomrefjord Idrettsbygg","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.1241813,62.5206925]},"properties":{"headline":"Flerbrukssal Tresfjord skole","ingress":"404 kvadratmeter","body":"Flerbrukssal Tresfjord skole","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.3172369,62.6052346]},"properties":{"headline":"Vågstranda skole gymsal","ingress":"244 kvadratmeter","body":"Vågstranda skole gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.855394,62.6173419]},"properties":{"headline":"Fisksdal friskole gymsal","ingress":"219 kvadratmeter","body":"Fisksdal friskole gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.148832381325527,62.61921600042335]},"properties":{"headline":"Vike Montessoriskole gymsal","ingress":"183 kvadratmeter","body":"Vike Montessoriskole gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.0413639,62.6308447]},"properties":{"headline":"Solsiden Gym Daugstad","ingress":"178 kvadratmeter","body":"Solsiden Gym Daugstad","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.653499331004767,62.21729085615148]},"properties":{"headline":"Gursken gymsal","ingress":"252 kvadratmeter","body":"Gursken gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.4117628,62.2009137]},"properties":{"headline":"Kvamsøy gymsal","ingress":"210 kvadratmeter","body":"Kvamsøy gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.5761577,62.2613723]},"properties":{"headline":"Gjerdsvika gymsal","ingress":"234 kvadratmeter","body":"Gjerdsvika gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.4726723,62.2494788]},"properties":{"headline":"Sandsøy gymsal","ingress":"136 kvadratmeter","body":"Sandsøy gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.5735493,62.2079455]},"properties":{"headline":"Larsnes gymsal","ingress":"670 kvadratmeter","body":"Larsnes gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.3835221,62.4381433]},"properties":{"headline":"Blindheimshallen","ingress":"45 x 25 meter","body":"Blindheimshallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.3750737,62.4679954]},"properties":{"headline":"Borgundhallen","ingress":"45 x 25 meter","body":"Borgundhallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.435197815345541,62.59421299491907]},"properties":{"headline":"Brattvåg idrettshall","ingress":"ukjent","body":"Brattvåg idrettshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.228059348772215,62.4749055299805]},"properties":{"headline":"Fagerlihallen","ingress":"44 x 24 meter","body":"Fagerlihallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.5944991,62.5466966]},"properties":{"headline":"Eidet kulturhall","ingress":"ukjent","body":"Eidet kulturhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2796354,62.5024099]},"properties":{"headline":"Ellingsøy idrettshall","ingress":"45 x 27.5 meter","body":"Ellingsøy idrettshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.6748326,62.5043417]},"properties":{"headline":"Gomerhuset, Skodje","ingress":"45 x 25 meter","body":"Gomerhuset, Skodje","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2683552,62.4609487]},"properties":{"headline":"Hatlane idrettshall","ingress":"45 x 25 meter","body":"Hatlane idrettshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.4576983,62.7713557]},"properties":{"headline":"IP Huse-hallen, Harøya","ingress":"69 x 42 meter","body":"IP Huse-hallen, Harøya","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.214439887574387,62.47213325896969]},"properties":{"headline":"Kolvikbakken idrettshall","ingress":"45 x 25 meter","body":"Kolvikbakken idrettshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.237697256191018,62.475449312860526]},"properties":{"headline":"Larsgården idrettshall","ingress":"45 x 23 meter","body":"Larsgården idrettshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.454961875244005,62.437567157499245]},"properties":{"headline":"Renexhallen, Emblem","ingress":"45 x 25 meter","body":"Renexhallen, Emblem","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1816643,62.469959]},"properties":{"headline":"Sparebanken Møre Arena","ingress":"102 x 63 meter","body":"Sparebanken Møre Arena","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.370065413863071,62.46131541138731]},"properties":{"headline":"Spjelkavikhallen","ingress":"43 x 22 meter","body":"Spjelkavikhallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.8178305,62.4754455]},"properties":{"headline":"Ørskoghallen","ingress":"45 x 25 meter","body":"Ørskoghallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.4117568,62.4306009]},"properties":{"headline":"Flisnes barneskole, gymsal","ingress":"","body":"Flisnes barneskole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.3549447,62.4375108]},"properties":{"headline":"Blindheim barneskole, gymsal","ingress":"","body":"Blindheim barneskole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.369228669681062,62.460135931999396]},"properties":{"headline":"Spjelkavik barneskole, gymsal","ingress":"","body":"Spjelkavik barneskole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.329613213863201,62.46365331839958]},"properties":{"headline":"Åse barneskole, gymsal","ingress":"","body":"Åse barneskole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2614285,62.461941]},"properties":{"headline":"Ratvikåsen","ingress":"","body":"Ratvikåsen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2488865,62.4655729]},"properties":{"headline":"Nørvasund skole, gymsal","ingress":"","body":"Nørvasund skole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.188017,62.4712908]},"properties":{"headline":"Volsdalen skole, gymsal","ingress":"","body":"Volsdalen skole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.145393460408249,62.472515458504745]},"properties":{"headline":"Aspøy skole, gymsal","ingress":"","body":"Aspøy skole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1288593,62.4584275]},"properties":{"headline":"Hessa skole, gymsal","ingress":"","body":"Hessa skole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.3936496,62.434037]},"properties":{"headline":"Ålesund folkehøyskole, gymsal","ingress":"","body":"Ålesund folkehøyskole, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.5045737,62.484107]},"properties":{"headline":"Møre barne- og ungdomsskole, Brusdal, gymsal","ingress":"","body":"Møre barne- og ungdomsskole, Brusdal, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2848764,62.5468077]},"properties":{"headline":"Norborghallen","ingress":"","body":"Norborghallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.343729727487751,62.4657114724993]},"properties":{"headline":"Pinsekirka Moa, gymsal","ingress":"","body":"Pinsekirka Moa, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.3097497,62.4280638]},"properties":{"headline":"Solevåg skule, fleirbrukshall","ingress":"1050 kvadratmeter","body":"Solevåg skule, fleirbrukshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2686672,62.4300739]},"properties":{"headline":"Rørstadmarka skule, fleirbrukshall","ingress":"1100 kvadratmeter","body":"Rørstadmarka skule, fleirbrukshall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2112617125151575,62.43889337340061]},"properties":{"headline":"Sulahallen","ingress":"1000 kvadratmeter","body":"Sulahallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.211691740843635,62.44005039617646]},"properties":{"headline":"Gymbygg, Sula ungdomsskule","ingress":"400 kvadratmeter","body":"Gymbygg, Sula ungdomsskule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.185599947333364,62.43873120867467]},"properties":{"headline":"Gymbygg, Molvær senter","ingress":"200 kvadratmeter","body":"Gymbygg, Molvær senter","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.9136469,62.3071011]},"properties":{"headline":"Strandahallen","ingress":"Handballbane","body":"Strandahallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.0602502,62.3126017]},"properties":{"headline":"Gymsal, Liabygda skule","ingress":"","body":"Gymsal, Liabygda skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.202153,62.0995317]},"properties":{"headline":"Gymsal, Geiranger skule","ingress":"","body":"Gymsal, Geiranger skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.8923245,62.2561726]},"properties":{"headline":"Gymsal, Helstad barnehage","ingress":"","body":"Gymsal, Helstad barnehage","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.8684871,62.0847953]},"properties":{"headline":"Gymsal, Sunnylven skule","ingress":"","body":"Gymsal, Sunnylven skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.935743251126148,62.30807834138636]},"properties":{"headline":"Gymsal, Ringstad skule","ingress":"","body":"Gymsal, Ringstad skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.9177685,62.3085571]},"properties":{"headline":"Mindre gymsal, Vestborg skule","ingress":"","body":"Mindre gymsal, Vestborg skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.019862836072912,62.36776234590061]},"properties":{"headline":"Hareidhallen","ingress":"40 x 20 meter","body":"Hareidhallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.9656147,62.3579392]},"properties":{"headline":"Gymsal Bigset skule","ingress":"20 x 10 meter","body":"Gymsal Bigset skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0039612,62.4010203]},"properties":{"headline":"Gymsal Brandal skule","ingress":"20 x 10 meter","body":"Gymsal Brandal skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0567395,62.3464084]},"properties":{"headline":"Hjørungavåg skule","ingress":"20 x 10 meter","body":"Hjørungavåg skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0217589,62.3676035]},"properties":{"headline":"Basishallen, turnhall","ingress":"25 x 30 meter","body":"Basishallen, turnhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0177170687958546,62.36729460051022]},"properties":{"headline":"Hadarhallen, fotballhall","ingress":"60 x 40 meter","body":"Hadarhallen, fotballhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.130694,62.5009292]},"properties":{"headline":"Kommunal idrettshall, Valderøya","ingress":"40 x 20 meter","body":"Kommunal idrettshall, Valderøya","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.116613398523397,62.57366940483372]},"properties":{"headline":"Vigrahallen - handball og fotball","ingress":"40 x 20 meter + 55 x 35","body":"Vigrahallen - handball og fotball","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.126336,62.5057575]},"properties":{"headline":"Gymsal Valderøy barneskule","ingress":"","body":"Gymsal Valderøy barneskule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0486331,62.5041204]},"properties":{"headline":"Gymsal Giske skule","ingress":"","body":"Gymsal Giske skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.020686,62.4719902]},"properties":{"headline":"Godøyhallen","ingress":"40 x 20 meter","body":"Godøyhallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.590934427255212,62.393026578867236]},"properties":{"headline":"Sykkylven storhall","ingress":"53 x 33 meter","body":"Sykkylven storhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.583292764836037,62.39575771011291]},"properties":{"headline":"Aure idrettshall (kjem i okt. 2023)","ingress":"45 x 25 meter","body":"Aure idrettshall (kjem i okt. 2023)","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.5487068,62.3833601]},"properties":{"headline":"Gymsal, Sørestranda skule","ingress":"20 x 12 meter","body":"Gymsal, Sørestranda skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.6432094,62.2918972]},"properties":{"headline":"Velledalen grendahus","ingress":"20 x 10 meter","body":"Velledalen grendahus","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.4347512,62.3748136]},"properties":{"headline":"Hundeivik grendahus","ingress":"20 x 10 meter","body":"Hundeivik grendahus","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.43750380633118,62.3746057693832]},"properties":{"headline":"Hundevik arena fotballhall","ingress":"44 x 25 meter","body":"Hundevik arena fotballhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.535228492931158,62.034959105985706]},"properties":{"headline":"Olivinhallen, Åheim","ingress":"1650 kvadratmeter","body":"Olivinhallen, Åheim","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.5603608,62.1023172]},"properties":{"headline":"Idrettshall, Fiskå","ingress":"1332m2","body":"Idrettshall, Fiskå","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.7379675,62.0879325]},"properties":{"headline":"Samfunnshus/Gymsal Myklebust skule","ingress":"20 x 10 meter","body":"Samfunnshus/Gymsal Myklebust skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.532997956168078,62.035927466615064]},"properties":{"headline":"Gymsal Åheim skule","ingress":"20 x 10 meter","body":"Gymsal Åheim skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.4936213,62.1983425]},"properties":{"headline":"Gymsal Åram skule","ingress":"20 x 10 meter","body":"Gymsal Åram skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.672395656822805,62.11471802614893]},"properties":{"headline":"Eidsåtun (lite brukt til idrett i dag)","ingress":"20 x 10 meter","body":"Eidsåtun (lite brukt til idrett i dag)","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.7524306,62.1785006]},"properties":{"headline":"Rovdetun (lite brukt til idrett i dag)","ingress":"20 x 10 meter","body":"Rovdetun (lite brukt til idrett i dag)","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.0060585,62.3817941]},"properties":{"headline":"Stordalshallen","ingress":"1100 kvadratmeter (for idrett)","body":"Stordalshallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.2527707,62.299914]},"properties":{"headline":"Martin Linge-huset","ingress":"1000 kvadratmeter (for idrett)","body":"Martin Linge-huset","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.4130219,62.2309979]},"properties":{"headline":"Tidlegare Tafjord skule, gymsal","ingress":"12 x 18 meter","body":"Tidlegare Tafjord skule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.231267313852052,62.25045264388213]},"properties":{"headline":"Dalsbygda barnehage/grendahus","ingress":"8 x 16 meter","body":"Dalsbygda barnehage/grendahus","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.1584615,62.2545859]},"properties":{"headline":"Eidsdal skule, gymsal","ingress":"12 x 20 meter","body":"Eidsdal skule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.2506725,62.2975973]},"properties":{"headline":"Muritunet, gymsal","ingress":"12 x 20 meter","body":"Muritunet, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.6599486,62.4786617]},"properties":{"headline":"Valle barneskule, gymsal","ingress":"238 kvm","body":"Valle barneskule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.4554983,62.7720828]},"properties":{"headline":"Sandøyhagen skule, gymsal","ingress":"266 kvm","body":"Sandøyhagen skule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.441829267325795,62.600918145276125]},"properties":{"headline":"Brattvåg barneskule , gymsal","ingress":"201 kvm","body":"Brattvåg barneskule , gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.437933280816379,62.59571304825942]},"properties":{"headline":"Brattvåg ungdomsskule, gymsal","ingress":"1069 kvm","body":"Brattvåg ungdomsskule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.2592991,62.6443051]},"properties":{"headline":"Haramsøy barne- og ungdomsskule, gymsal","ingress":"Ukjent","body":"Haramsøy barne- og ungdomsskule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1974738,62.6075627]},"properties":{"headline":"Lepsøy skule, gymsal","ingress":"169 kvm","body":"Lepsøy skule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.5844972,62.5361118]},"properties":{"headline":"Tennfjord skule, gymsal","ingress":"201 kvm","body":"Tennfjord skule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.6218247,62.5572115]},"properties":{"headline":"Vatne barneskule, gymsal","ingress":"154 kvm","body":"Vatne barneskule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.261935,62.6760634]},"properties":{"headline":"Flem skule, gymsal","ingress":"273 kvm","body":"Flem skule, gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1463309,62.471577]},"properties":{"headline":"Latinskolen, gymsal 1","ingress":"148 kvm","body":"Latinskolen, gymsal 1","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1463309,62.471577]},"properties":{"headline":"Latinskolen, gymsal 2","ingress":"149 kvm","body":"Latinskolen, gymsal 2","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0866133,62.2985781]},"properties":{"headline":"VD-hallen Vartdal skule","ingress":"385 kvadratmeter","body":"VD-hallen Vartdal skule","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1288689,62.2054262]},"properties":{"headline":"Vikemarka skule gymsal","ingress":"225 kvadratmeter","body":"Vikemarka skule gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.228306,62.1594725]},"properties":{"headline":"Dalane skule gymsal","ingress":"207 kvadratmeter","body":"Dalane skule gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.0785883,62.1853584]},"properties":{"headline":"Hovden skule gymsal","ingress":"205 kvadratmeter","body":"Hovden skule gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.4719143,62.2067023]},"properties":{"headline":"Sæbø skule gymsal","ingress":"293 kvadratmeter","body":"Sæbø skule gymsal","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.131308864339095,62.19532704329829]},"properties":{"headline":"Ørstahallen","ingress":"9000 kvadratmeter","body":"Ørstahallen","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.129892657936239,62.19454632189502]},"properties":{"headline":"Kiwihallen, fotballhall","ingress":"59 x 39 meter","body":"Kiwihallen, fotballhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[5.6750481411789115,62.1136331009209]},"properties":{"headline":"Vanylvshallen, fotballhall","ingress":"","body":"Vanylvshallen, fotballhall","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.271860454601607,62.46573187734084]},"properties":{"headline":"Tennishallen, Ålesund","ingress":"","body":"Tennishallen, Ålesund","image":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.259771549897267,62.64367383892027]},"properties":{"headline":"Nordøyhallen, Haramsøya","ingress":"","body":"Nordøyhallen, Haramsøya","image":""}}]}
+{
+type: "FeatureCollection",
+features: [
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.849190796563197,
+62.34370425557691
+]
+},
+properties: {
+headline: "Ulstein Arena",
+ingress: "45 x 25 meter",
+body: "Ulstein Arena",
+image: "https://vcdn.polarismedia.no/1bf5a960-cc5c-4746-bcbc-1b771a3aeb5d?fit=crop&q=80&w=980"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.874429084285412,
+62.28164885931076
+]
+},
+properties: {
+headline: "Haddal skule",
+ingress: "20 x 10 meter",
+body: "Haddal skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.826599519239602,
+62.35678944325621
+]
+},
+properties: {
+headline: "Ulstein skule",
+ingress: "20 x 10 meter",
+body: "Ulstein skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.843806922348546,
+62.3163105129793
+]
+},
+properties: {
+headline: "Hasund skule",
+ingress: "20 x 20 meter",
+body: "Hasund skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.8885074,
+62.2528615
+]
+},
+properties: {
+headline: "Eiksund skule",
+ingress: "20 x 10 meter",
+body: "Eiksund skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.7988671,
+62.32564
+]
+},
+properties: {
+headline: "Dimna skule",
+ingress: "20 x 10 meter",
+body: "Dimna skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.850603328808694,
+62.40458978238224
+]
+},
+properties: {
+headline: "Flø skule",
+ingress: "20 x 10 meter",
+body: "Flø skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.880971585020355,
+62.340493149991524
+]
+},
+properties: {
+headline: "Ulstein fleirbruks- og friidrettshall",
+ingress: "100 x 55 meter",
+body: "Ulstein fleirbruks- og friidrettshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.849190796563197,
+62.34370425557691
+]
+},
+properties: {
+headline: "Klatrehall - UlsteinArena",
+ingress: "13 meter høy",
+body: "Klatrehall - UlsteinArena",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.879655465837553,
+62.34084950624702
+]
+},
+properties: {
+headline: "Hødd turnhall",
+ingress: "24 x 48 meter",
+body: "Hødd turnhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.878983149997282,
+62.34081078021387
+]
+},
+properties: {
+headline: "Ulsmo-hallen, fotballhall",
+ingress: "60 x 40 meter",
+body: "Ulsmo-hallen, fotballhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.830696297784971,
+62.35184304871661
+]
+},
+properties: {
+headline: "Ulstein padelhall",
+ingress: "",
+body: "Ulstein padelhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0800413,
+62.1469064
+]
+},
+properties: {
+headline: "Volda Campus Arena",
+ingress: "2 x handballflater  + 2 mindre salar",
+body: "Volda Campus Arena",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.519222354310353,
+61.97702954722384
+]
+},
+properties: {
+headline: "Honndalshallen",
+ingress: "Håndballbane",
+body: "Honndalshallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0222164,
+62.1693688
+]
+},
+properties: {
+headline: "Mork skole",
+ingress: "Ordinær "skole-gymsal"",
+body: "Mork skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1104907,
+62.1495425
+]
+},
+properties: {
+headline: "Bratteberg skole",
+ingress: "Ordinær "skole-gymsal"",
+body: "Bratteberg skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0294477,
+62.1178848
+]
+},
+properties: {
+headline: "Folkestad skole",
+ingress: "Ordinær "skole-gymsal"",
+body: "Folkestad skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.9363073,
+62.1130418
+]
+},
+properties: {
+headline: "Dalsfjord skole",
+ingress: "Ordinær "skole-gymsal"",
+body: "Dalsfjord skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2612576,
+62.0649422
+]
+},
+properties: {
+headline: "Austefjord skole",
+ingress: "Ordinær "skole-gymsal"",
+body: "Austefjord skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.11473416781015,
+62.14943105600121
+]
+},
+properties: {
+headline: "Tennishall Volda",
+ingress: "Tennisbane",
+body: "Tennishall Volda",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.6875019,
+62.3342872
+]
+},
+properties: {
+headline: "Einehallen",
+ingress: "45 x 25 meter",
+body: "Einehallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.642387723560484,
+62.333918456412896
+]
+},
+properties: {
+headline: "Herøyhallen",
+ingress: "45 x 25 meter",
+body: "Herøyhallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.7266022,
+62.3029761
+]
+},
+properties: {
+headline: "Stokksund skole",
+ingress: "10 x 20 meter",
+body: "Stokksund skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.63544716781772,
+62.294763702291384
+]
+},
+properties: {
+headline: "Moltu skule",
+ingress: "14 x 7 meter",
+body: "Moltu skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.5827883,
+62.3409675
+]
+},
+properties: {
+headline: "Nerlandsøy skole",
+ingress: "10 x 6 meter",
+body: "Nerlandsøy skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.7868951,
+62.2365092
+]
+},
+properties: {
+headline: "Leikanger skole",
+ingress: "20 x 10 meter",
+body: "Leikanger skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.8052766,
+62.2783782
+]
+},
+properties: {
+headline: "Møre barne- og ungdomsskole (Herøy)",
+ingress: "10 x 20 meter",
+body: "Møre barne- og ungdomsskole (Herøy)",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.6432644,
+62.3331155
+]
+},
+properties: {
+headline: "Fiskarhallen (fotballhall)",
+ingress: "63 x 36 meter",
+body: "Fiskarhallen (fotballhall)",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.0875764,
+62.6166489
+]
+},
+properties: {
+headline: "Vestneshallen",
+ingress: "3384 kvadratmeter",
+body: "Vestneshallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.9336326,
+62.6057866
+]
+},
+properties: {
+headline: "Tomrefjord Idrettsbygg",
+ingress: "2820 kvadratmeter",
+body: "Tomrefjord Idrettsbygg",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.1241813,
+62.5206925
+]
+},
+properties: {
+headline: "Flerbrukssal Tresfjord skole",
+ingress: "404 kvadratmeter",
+body: "Flerbrukssal Tresfjord skole",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.3172369,
+62.6052346
+]
+},
+properties: {
+headline: "Vågstranda skole gymsal",
+ingress: "244 kvadratmeter",
+body: "Vågstranda skole gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.855394,
+62.6173419
+]
+},
+properties: {
+headline: "Fisksdal friskole gymsal",
+ingress: "219 kvadratmeter",
+body: "Fisksdal friskole gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.148832381325527,
+62.61921600042335
+]
+},
+properties: {
+headline: "Vike Montessoriskole gymsal",
+ingress: "183 kvadratmeter",
+body: "Vike Montessoriskole gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.0413639,
+62.6308447
+]
+},
+properties: {
+headline: "Solsiden Gym Daugstad",
+ingress: "178 kvadratmeter",
+body: "Solsiden Gym Daugstad",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.653499331004767,
+62.21729085615148
+]
+},
+properties: {
+headline: "Gursken gymsal",
+ingress: "252 kvadratmeter",
+body: "Gursken gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.4117628,
+62.2009137
+]
+},
+properties: {
+headline: "Kvamsøy gymsal",
+ingress: "210 kvadratmeter",
+body: "Kvamsøy gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.5761577,
+62.2613723
+]
+},
+properties: {
+headline: "Gjerdsvika gymsal",
+ingress: "234 kvadratmeter",
+body: "Gjerdsvika gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.4726723,
+62.2494788
+]
+},
+properties: {
+headline: "Sandsøy gymsal",
+ingress: "136 kvadratmeter",
+body: "Sandsøy gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.5735493,
+62.2079455
+]
+},
+properties: {
+headline: "Larsnes gymsal",
+ingress: "670 kvadratmeter",
+body: "Larsnes gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.3835221,
+62.4381433
+]
+},
+properties: {
+headline: "Blindheimshallen",
+ingress: "45 x 25 meter",
+body: "Blindheimshallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.3750737,
+62.4679954
+]
+},
+properties: {
+headline: "Borgundhallen",
+ingress: "45 x 25 meter",
+body: "Borgundhallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.435197815345541,
+62.59421299491907
+]
+},
+properties: {
+headline: "Brattvåg idrettshall",
+ingress: "ukjent",
+body: "Brattvåg idrettshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.228059348772215,
+62.4749055299805
+]
+},
+properties: {
+headline: "Fagerlihallen",
+ingress: "44 x 24 meter",
+body: "Fagerlihallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.5944991,
+62.5466966
+]
+},
+properties: {
+headline: "Eidet kulturhall",
+ingress: "ukjent",
+body: "Eidet kulturhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2796354,
+62.5024099
+]
+},
+properties: {
+headline: "Ellingsøy idrettshall",
+ingress: "45 x 27.5 meter",
+body: "Ellingsøy idrettshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.6748326,
+62.5043417
+]
+},
+properties: {
+headline: "Gomerhuset, Skodje",
+ingress: "45 x 25 meter",
+body: "Gomerhuset, Skodje",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2683552,
+62.4609487
+]
+},
+properties: {
+headline: "Hatlane idrettshall",
+ingress: "45 x 25 meter",
+body: "Hatlane idrettshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.4576983,
+62.7713557
+]
+},
+properties: {
+headline: "IP Huse-hallen, Harøya",
+ingress: "69 x 42 meter",
+body: "IP Huse-hallen, Harøya",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.214439887574387,
+62.47213325896969
+]
+},
+properties: {
+headline: "Kolvikbakken idrettshall",
+ingress: "45 x 25 meter",
+body: "Kolvikbakken idrettshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.237697256191018,
+62.475449312860526
+]
+},
+properties: {
+headline: "Larsgården idrettshall",
+ingress: "45 x 23 meter",
+body: "Larsgården idrettshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.454961875244005,
+62.437567157499245
+]
+},
+properties: {
+headline: "Renexhallen, Emblem",
+ingress: "45 x 25 meter",
+body: "Renexhallen, Emblem",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1816643,
+62.469959
+]
+},
+properties: {
+headline: "Sparebanken Møre Arena",
+ingress: "102 x 63 meter",
+body: "Sparebanken Møre Arena",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.370065413863071,
+62.46131541138731
+]
+},
+properties: {
+headline: "Spjelkavikhallen",
+ingress: "43 x 22 meter",
+body: "Spjelkavikhallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.8178305,
+62.4754455
+]
+},
+properties: {
+headline: "Ørskoghallen",
+ingress: "45 x 25 meter",
+body: "Ørskoghallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.4117568,
+62.4306009
+]
+},
+properties: {
+headline: "Flisnes barneskole, gymsal",
+ingress: "",
+body: "Flisnes barneskole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.3549447,
+62.4375108
+]
+},
+properties: {
+headline: "Blindheim barneskole, gymsal",
+ingress: "",
+body: "Blindheim barneskole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.369228669681062,
+62.460135931999396
+]
+},
+properties: {
+headline: "Spjelkavik barneskole, gymsal",
+ingress: "",
+body: "Spjelkavik barneskole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.329613213863201,
+62.46365331839958
+]
+},
+properties: {
+headline: "Åse barneskole, gymsal",
+ingress: "",
+body: "Åse barneskole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2614285,
+62.461941
+]
+},
+properties: {
+headline: "Ratvikåsen",
+ingress: "",
+body: "Ratvikåsen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2488865,
+62.4655729
+]
+},
+properties: {
+headline: "Nørvasund skole, gymsal",
+ingress: "",
+body: "Nørvasund skole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.188017,
+62.4712908
+]
+},
+properties: {
+headline: "Volsdalen skole, gymsal",
+ingress: "",
+body: "Volsdalen skole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.145393460408249,
+62.472515458504745
+]
+},
+properties: {
+headline: "Aspøy skole, gymsal",
+ingress: "",
+body: "Aspøy skole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1288593,
+62.4584275
+]
+},
+properties: {
+headline: "Hessa skole, gymsal",
+ingress: "",
+body: "Hessa skole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.3936496,
+62.434037
+]
+},
+properties: {
+headline: "Ålesund folkehøyskole, gymsal",
+ingress: "",
+body: "Ålesund folkehøyskole, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.5045737,
+62.484107
+]
+},
+properties: {
+headline: "Møre barne- og ungdomsskole, Brusdal, gymsal",
+ingress: "",
+body: "Møre barne- og ungdomsskole, Brusdal, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2848764,
+62.5468077
+]
+},
+properties: {
+headline: "Norborghallen",
+ingress: "",
+body: "Norborghallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.343729727487751,
+62.4657114724993
+]
+},
+properties: {
+headline: "Pinsekirka Moa, gymsal",
+ingress: "",
+body: "Pinsekirka Moa, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.3097497,
+62.4280638
+]
+},
+properties: {
+headline: "Solevåg skule, fleirbrukshall",
+ingress: "1050 kvadratmeter",
+body: "Solevåg skule, fleirbrukshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2686672,
+62.4300739
+]
+},
+properties: {
+headline: "Rørstadmarka skule, fleirbrukshall",
+ingress: "1100 kvadratmeter",
+body: "Rørstadmarka skule, fleirbrukshall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2112617125151575,
+62.43889337340061
+]
+},
+properties: {
+headline: "Sulahallen",
+ingress: "1000 kvadratmeter",
+body: "Sulahallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.211691740843635,
+62.44005039617646
+]
+},
+properties: {
+headline: "Gymbygg, Sula ungdomsskule",
+ingress: "400 kvadratmeter",
+body: "Gymbygg, Sula ungdomsskule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.185599947333364,
+62.43873120867467
+]
+},
+properties: {
+headline: "Gymbygg, Molvær senter",
+ingress: "200 kvadratmeter",
+body: "Gymbygg, Molvær senter",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.9136469,
+62.3071011
+]
+},
+properties: {
+headline: "Strandahallen",
+ingress: "Handballbane",
+body: "Strandahallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.0602502,
+62.3126017
+]
+},
+properties: {
+headline: "Gymsal, Liabygda skule",
+ingress: "",
+body: "Gymsal, Liabygda skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.202153,
+62.0995317
+]
+},
+properties: {
+headline: "Gymsal, Geiranger skule",
+ingress: "",
+body: "Gymsal, Geiranger skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.8923245,
+62.2561726
+]
+},
+properties: {
+headline: "Gymsal, Helstad barnehage",
+ingress: "",
+body: "Gymsal, Helstad barnehage",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.8684871,
+62.0847953
+]
+},
+properties: {
+headline: "Gymsal, Sunnylven skule",
+ingress: "",
+body: "Gymsal, Sunnylven skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.935743251126148,
+62.30807834138636
+]
+},
+properties: {
+headline: "Gymsal, Ringstad skule",
+ingress: "",
+body: "Gymsal, Ringstad skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.9177685,
+62.3085571
+]
+},
+properties: {
+headline: "Mindre gymsal, Vestborg skule",
+ingress: "",
+body: "Mindre gymsal, Vestborg skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.019862836072912,
+62.36776234590061
+]
+},
+properties: {
+headline: "Hareidhallen",
+ingress: "40 x 20 meter",
+body: "Hareidhallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.9656147,
+62.3579392
+]
+},
+properties: {
+headline: "Gymsal Bigset skule",
+ingress: "20 x 10 meter",
+body: "Gymsal Bigset skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0039612,
+62.4010203
+]
+},
+properties: {
+headline: "Gymsal Brandal skule",
+ingress: "20 x 10 meter",
+body: "Gymsal Brandal skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0567395,
+62.3464084
+]
+},
+properties: {
+headline: "Hjørungavåg skule",
+ingress: "20 x 10 meter",
+body: "Hjørungavåg skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0217589,
+62.3676035
+]
+},
+properties: {
+headline: "Basishallen, turnhall",
+ingress: "25 x 30 meter",
+body: "Basishallen, turnhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0177170687958546,
+62.36729460051022
+]
+},
+properties: {
+headline: "Hadarhallen, fotballhall",
+ingress: "60 x 40 meter",
+body: "Hadarhallen, fotballhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.130694,
+62.5009292
+]
+},
+properties: {
+headline: "Kommunal idrettshall, Valderøya",
+ingress: "40 x 20 meter",
+body: "Kommunal idrettshall, Valderøya",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.116613398523397,
+62.57366940483372
+]
+},
+properties: {
+headline: "Vigrahallen - handball og fotball",
+ingress: "40 x 20 meter + 55 x 35",
+body: "Vigrahallen - handball og fotball",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.126336,
+62.5057575
+]
+},
+properties: {
+headline: "Gymsal Valderøy barneskule",
+ingress: "",
+body: "Gymsal Valderøy barneskule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0486331,
+62.5041204
+]
+},
+properties: {
+headline: "Gymsal Giske skule",
+ingress: "",
+body: "Gymsal Giske skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.020686,
+62.4719902
+]
+},
+properties: {
+headline: "Godøyhallen",
+ingress: "40 x 20 meter",
+body: "Godøyhallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.590934427255212,
+62.393026578867236
+]
+},
+properties: {
+headline: "Sykkylven storhall",
+ingress: "53 x 33 meter",
+body: "Sykkylven storhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.583292764836037,
+62.39575771011291
+]
+},
+properties: {
+headline: "Aure idrettshall (kjem i okt. 2023)",
+ingress: "45 x 25 meter",
+body: "Aure idrettshall (kjem i okt. 2023)",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.5487068,
+62.3833601
+]
+},
+properties: {
+headline: "Gymsal, Sørestranda skule",
+ingress: "20 x 12 meter",
+body: "Gymsal, Sørestranda skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.6432094,
+62.2918972
+]
+},
+properties: {
+headline: "Velledalen grendahus",
+ingress: "20 x 10 meter",
+body: "Velledalen grendahus",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.4347512,
+62.3748136
+]
+},
+properties: {
+headline: "Hundeivik grendahus",
+ingress: "20 x 10 meter",
+body: "Hundeivik grendahus",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.43750380633118,
+62.3746057693832
+]
+},
+properties: {
+headline: "Hundevik arena fotballhall",
+ingress: "44 x 25 meter",
+body: "Hundevik arena fotballhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.535228492931158,
+62.034959105985706
+]
+},
+properties: {
+headline: "Olivinhallen, Åheim",
+ingress: "1650 kvadratmeter",
+body: "Olivinhallen, Åheim",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.5603608,
+62.1023172
+]
+},
+properties: {
+headline: "Idrettshall, Fiskå",
+ingress: "1332m2",
+body: "Idrettshall, Fiskå",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.7379675,
+62.0879325
+]
+},
+properties: {
+headline: "Samfunnshus/Gymsal Myklebust skule",
+ingress: "20 x 10 meter",
+body: "Samfunnshus/Gymsal Myklebust skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.532997956168078,
+62.035927466615064
+]
+},
+properties: {
+headline: "Gymsal Åheim skule",
+ingress: "20 x 10 meter",
+body: "Gymsal Åheim skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.4936213,
+62.1983425
+]
+},
+properties: {
+headline: "Gymsal Åram skule",
+ingress: "20 x 10 meter",
+body: "Gymsal Åram skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.672395656822805,
+62.11471802614893
+]
+},
+properties: {
+headline: "Eidsåtun (lite brukt til idrett i dag)",
+ingress: "20 x 10 meter",
+body: "Eidsåtun (lite brukt til idrett i dag)",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.7524306,
+62.1785006
+]
+},
+properties: {
+headline: "Rovdetun (lite brukt til idrett i dag)",
+ingress: "20 x 10 meter",
+body: "Rovdetun (lite brukt til idrett i dag)",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.0060585,
+62.3817941
+]
+},
+properties: {
+headline: "Stordalshallen",
+ingress: "1100 kvadratmeter (for idrett)",
+body: "Stordalshallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.2527707,
+62.299914
+]
+},
+properties: {
+headline: "Martin Linge-huset",
+ingress: "1000 kvadratmeter (for idrett)",
+body: "Martin Linge-huset",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.4130219,
+62.2309979
+]
+},
+properties: {
+headline: "Tidlegare Tafjord skule, gymsal",
+ingress: "12 x 18 meter",
+body: "Tidlegare Tafjord skule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.231267313852052,
+62.25045264388213
+]
+},
+properties: {
+headline: "Dalsbygda barnehage/grendahus",
+ingress: "8 x 16 meter",
+body: "Dalsbygda barnehage/grendahus",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.1584615,
+62.2545859
+]
+},
+properties: {
+headline: "Eidsdal skule, gymsal",
+ingress: "12 x 20 meter",
+body: "Eidsdal skule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+7.2506725,
+62.2975973
+]
+},
+properties: {
+headline: "Muritunet, gymsal",
+ingress: "12 x 20 meter",
+body: "Muritunet, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.6599486,
+62.4786617
+]
+},
+properties: {
+headline: "Valle barneskule, gymsal",
+ingress: "238 kvm",
+body: "Valle barneskule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.4554983,
+62.7720828
+]
+},
+properties: {
+headline: "Sandøyhagen skule, gymsal",
+ingress: "266 kvm",
+body: "Sandøyhagen skule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.441829267325795,
+62.600918145276125
+]
+},
+properties: {
+headline: "Brattvåg barneskule , gymsal",
+ingress: "201 kvm",
+body: "Brattvåg barneskule , gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.437933280816379,
+62.59571304825942
+]
+},
+properties: {
+headline: "Brattvåg ungdomsskule, gymsal",
+ingress: "1069 kvm",
+body: "Brattvåg ungdomsskule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.2592991,
+62.6443051
+]
+},
+properties: {
+headline: "Haramsøy barne- og ungdomsskule, gymsal",
+ingress: "Ukjent",
+body: "Haramsøy barne- og ungdomsskule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1974738,
+62.6075627
+]
+},
+properties: {
+headline: "Lepsøy skule, gymsal",
+ingress: "169 kvm",
+body: "Lepsøy skule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.5844972,
+62.5361118
+]
+},
+properties: {
+headline: "Tennfjord skule, gymsal",
+ingress: "201 kvm",
+body: "Tennfjord skule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.6218247,
+62.5572115
+]
+},
+properties: {
+headline: "Vatne barneskule, gymsal",
+ingress: "154 kvm",
+body: "Vatne barneskule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.261935,
+62.6760634
+]
+},
+properties: {
+headline: "Flem skule, gymsal",
+ingress: "273 kvm",
+body: "Flem skule, gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1463309,
+62.471577
+]
+},
+properties: {
+headline: "Latinskolen, gymsal 1",
+ingress: "148 kvm",
+body: "Latinskolen, gymsal 1",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1463309,
+62.471577
+]
+},
+properties: {
+headline: "Latinskolen, gymsal 2",
+ingress: "149 kvm",
+body: "Latinskolen, gymsal 2",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0866133,
+62.2985781
+]
+},
+properties: {
+headline: "VD-hallen Vartdal skule",
+ingress: "385 kvadratmeter",
+body: "VD-hallen Vartdal skule",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.1288689,
+62.2054262
+]
+},
+properties: {
+headline: "Vikemarka skule gymsal",
+ingress: "225 kvadratmeter",
+body: "Vikemarka skule gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.228306,
+62.1594725
+]
+},
+properties: {
+headline: "Dalane skule gymsal",
+ingress: "207 kvadratmeter",
+body: "Dalane skule gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.0785883,
+62.1853584
+]
+},
+properties: {
+headline: "Hovden skule gymsal",
+ingress: "205 kvadratmeter",
+body: "Hovden skule gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.4719143,
+62.2067023
+]
+},
+properties: {
+headline: "Sæbø skule gymsal",
+ingress: "293 kvadratmeter",
+body: "Sæbø skule gymsal",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.131308864339095,
+62.19532704329829
+]
+},
+properties: {
+headline: "Ørstahallen",
+ingress: "9000 kvadratmeter",
+body: "Ørstahallen",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.129892657936239,
+62.19454632189502
+]
+},
+properties: {
+headline: "Kiwihallen, fotballhall",
+ingress: "59 x 39 meter",
+body: "Kiwihallen, fotballhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+5.6750481411789115,
+62.1136331009209
+]
+},
+properties: {
+headline: "Vanylvshallen, fotballhall",
+ingress: "",
+body: "Vanylvshallen, fotballhall",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.273947897983643,
+62.46073129838315
+]
+},
+properties: {
+headline: "Tennishallen, Ålesund",
+ingress: "",
+body: "Tennishallen, Ålesund",
+image: ""
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+6.259117284615142,
+62.643591215595116
+]
+},
+properties: {
+headline: "Nordøyhallen, Haramsøya",
+ingress: "",
+body: "Nordøyhallen, Haramsøya",
+image: ""
+}
+}
+]
+}
